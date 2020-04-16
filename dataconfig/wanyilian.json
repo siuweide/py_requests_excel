@@ -1,0 +1,3 @@
+{"login":{"account":"rebecca","password":"888","isVerify":"N"},
+"orderlist":{"sEcho":2,"iDisplayStart":0,"iDisplayLength":10,"aSorting[0][sName]":"sale_date","aSorting[0][sValue]":"desc","form[status]":"WFD","form[saleDateStart]":"2020-03-10","form[saleDateEnd]":"2020-04-10","form[platform]":"ebay","api":"gfs.order.list"},
+"cancel_order":{"form[gfsOrderList][0][gfsOrderId]":66618,"form[platform]":"ebay","api":"gfs.order.cancelOrder","ajax":1}}
